@@ -1,0 +1,129 @@
+.image {
+    height: 20px;
+    width: 20px;
+    margin-left: 100px;
+}
+.head{
+    font-family: sans-serif;
+}
+
+a {
+    margin: 15px;
+    text-decoration: none;
+    color: black;
+    font-weight: 1000;
+    font-family: "Bree Serif";
+}
+
+* {
+    margin: 0px;
+}
+
+.container {
+    background-color: #FF5733;
+    height: 50px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.container2 {
+    padding: 40px;
+    background-image: linear-gradient(to right, #f6f7a6, #FF00EC);
+    height: 420px;
+}
+
+.image2 {
+    height: 500px;
+    min-width: 200px;
+    max-width: 500px;
+}
+
+button {
+    background-color: #FF5733;
+    height: 40px;
+    width: 200px;
+    border-width: 0px;
+    border-radius: 5px;
+    margin-top: 50px;
+    color: white;
+}
+
+.para {
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.image-url {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+}
+
+.image-url1 {
+    height: 420px;
+    width: 300px;
+    margin: 10px;
+}
+
+.container4 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    background-image: linear-gradient(to right, #DAF7A6, #FF00EC);
+    margin-top: 20px;
+    padding: 50px;
+}
+
+.container5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: flex-start;
+}
+
+.image6 {
+    height: 20px;
+    width: 20px;
+    margin: 10px;
+}
+
+.con {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    font-weight: 300;
+}
+
+.box {
+    background-color: #FF5733;
+    padding: 10px;
+    margin: 30px;
+    height: 150px;
+    width: 250px;
+    margin-top: 110px;
+}
+
+.paragraph {
+    color: 20px;
+    margin-bottom: 15px;
+}
+
+.heading {
+    margin-top: 2px;
+    color: black;
+    font-weight: bold;
+    font-family: "Roboto";
+    margin-bottom: 20px;
+}
